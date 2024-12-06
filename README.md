@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me 
+### 
 
-<!--
-**ReadyPlayerSix/ReadyPlayerSix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- Learning how to program with javascript
+- 
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- Javascript and how to be a functional member of digital society
+- 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- Many things but nothing right now
+- 
 - ⚡ Fun fact: ...
--->
+- Narcolepsy is like having a super power to get a full nights rest in the period of nap.
+
