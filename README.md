@@ -36,5 +36,5 @@ With over 10 years of experience in IT and cyber operations. My experience latel
 ## Connect with Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/cc-runtal)
-cc.runtal@gmail.com
+[![Email](https://img.shields.io/badge/cc.runtal@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:cc.runtal@gmail.com)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14796999.svg)](https://doi.org/10.5281/zenodo.14796999)
