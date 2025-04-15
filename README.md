@@ -1,7 +1,5 @@
 # Claro C Runtal
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/cc-runtal)
-
 Apprentice @ Creating Coding Careers | CompTIA Security+ | Computer Programming BS | Collaborative AI Research | AutoML R&D
 
 ## About Me
